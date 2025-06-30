@@ -12,4 +12,8 @@ with open("Ouput/output10.txt", "w") as f1:
     for num in sorted_num:
         f1.write(f"{num}  ")
 
+with open("Ouput/sorted_numbers.txt", "w") as f1:
+    for num in sorted_num:
+        f1.write(f"{num}  ")
+
 print(sorted_num)
