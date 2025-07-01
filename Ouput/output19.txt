@@ -1,0 +1,5 @@
+Student: Ali, Grade: 4
+Student: Malika, Grade: 5
+Student: Sardor, Grade: 3
+Student: Nigora, Grade: 5
+Student: Bekzod, Grade: 4
